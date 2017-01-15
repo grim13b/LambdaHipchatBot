@@ -3,3 +3,4 @@ build.sh
 requirements.txt
 exclude.txt
 lambda.zip
+LICENSE

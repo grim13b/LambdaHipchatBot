@@ -2,4 +2,3 @@
 lib/*
 !lib/__init__.py
 *.zip
-LICENSE
